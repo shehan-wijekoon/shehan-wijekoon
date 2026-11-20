@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi there, I'm Shehan Wijekoon 👋</h1>
+  <h1>Hi there, I'm Shehan Wijekoon</h1>
   <p><strong>Undergraduate Software Engineering Student | Full-Stack & AI Developer</strong></p>
 </div>
 
@@ -7,9 +7,17 @@
 
 ### 👨‍💻 About Me
 - 🎓 Undergraduate Software Engineering student passionate about building scalable web applications and AI-powered tools.
-- 🛠️ Part-time developer since Oct 2024.
+- 🛠️ Part-time & freelance developer since Oct 2024.
 
 ---
+
+### 🚧 Currently Working On (Freelance)
+- 🖥️ **[Ikisakitours-Admin-Panel](https://github.com/ikisakitours/Ikisakitours-Admin-Panel)** — Tour Guide Agency Admin Dashboard built with TypeScript.
+- ⚙️ **[ikisakitours-backend](https://github.com/ikisakitours/ikisakitours-backend)** — Backend REST API for the Ikisakitours platform built with NestJS & TypeScript.
+
+---
+
+<div align="center">
 
 ### 🚀 Tech Stack
 
@@ -52,13 +60,8 @@
 
 ---
 
-### 📊 GitHub Stats
+### 💻 Most Used Languages
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shehan-wijekoon&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Shehan's GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shehan-wijekoon&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages" />
-</div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shehan-wijekoon&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages" />
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=shehan-wijekoon&theme=tokyonight" alt="GitHub Streak" />
 </div>
