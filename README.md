@@ -96,10 +96,4 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 </p>
 
----
-
-### 💻 Most Used Languages
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shehan-wijekoon&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages" />
-
 </div>
