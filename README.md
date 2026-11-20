@@ -6,10 +6,10 @@
 ---
 
 ### 👨‍💻 About Me
-- 🎓 Undergraduate Software Engineering student passionate about building scalable web applications and AI-powered tools[cite: 4]
-- 🛠️ Part-time developer since Oct 2024[cite: 4]
+- 🎓 Undergraduate Software Engineering student passionate about building scalable web applications and AI-powered tools.
+- 🛠️ Part-time developer since Oct 2024.
 - 🌱 Building production-grade backend APIs, RAG document systems, and local AI agents
-- 💬 Ask me about **TypeScript, NestJS, Python, FastAPI, RAG pipelines, and Go**[cite: 2, 4]
+- 💬 Ask me about **TypeScript, NestJS, Python, FastAPI, RAG pipelines, and Go**.
 
 ---
 
